@@ -13,6 +13,6 @@
 2. Chem 237
 3. Bio 200
 
-![Photo of a dark forest with some rays of sun coming through the trees](lab-2-testing\GettyImages-1273584292-cbcd5f85f4c646d58f7a7fa158dcaaeb.jpg)
+![Photo of a dark forest with some rays of sun coming through the trees]("C:\Users\mxspa\Documents\INFO201\lab-2-testing\lab-2-testing\GettyImages-1273584292-cbcd5f85f4c646d58f7a7fa158dcaaeb.jpg")
 
 [My GitHub Profile](https://github.com/mzs-11)
